@@ -1,0 +1,19 @@
+{
+  "name": "quizzer-server",
+  "version": "1.0.0",
+  "description": "Open Source server components for a quizzing application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukecampbell/quizzer-server.git"
+  },
+  "author": "Luke Campbell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukecampbell/quizzer-server/issues"
+  },
+  "homepage": "https://github.com/lukecampbell/quizzer-server#readme"
+}
